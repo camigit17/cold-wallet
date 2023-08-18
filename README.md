@@ -1,7 +1,7 @@
 # cold-wallet
 
 ## Principales caracteristicas
-1. [General Info](#general-info)
+1. [Que es?](Que-es?)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
