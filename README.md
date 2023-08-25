@@ -3,7 +3,7 @@
 ## Principales caracteristicas
 1. [Que es?](Que-es?)
 2. [Para que sirve](#Para-que-sirve)
-3. [Installation](#installation)
+3. [Riegos](#Riegos)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
