@@ -2,7 +2,7 @@
 
 ## Principales caracteristicas
 1. [Que es?](Que-es?)
-2. [Para que sirve](#Para-que-sirve)
+2. [Para que sirve](#Para_que_sirve)
 3. [Riegos](#Riegos)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
