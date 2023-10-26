@@ -1,4 +1,4 @@
-# cold-wallet...
+# cold-wallet.
 
 ## Principales caracteristicas
 1. [Que es?](Que-es?)
